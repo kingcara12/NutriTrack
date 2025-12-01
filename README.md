@@ -11,7 +11,7 @@ Fernandez, Amil
 
 ## ✦ **Overview**
 
-**NutriTrack Lite** is a **console-based Java application** that allows users to monitor the nutritional value of various foods.
+**NutriTrack** is a **console-based Java application** that allows users to monitor the nutritional value of various foods.
 Foods are categorized into:
 
 * **Fruit**
@@ -68,11 +68,13 @@ All interaction is done through a menu-driven terminal interface.
 
 ## ✦ **Object-Oriented Principles Applied**
 
-📌 **Encapsulation** – Private attributes in `Food` with getters (getName(), getCalories(), etc.)
-📌 **Inheritance** – `Fruit`, `Vegetable`, and `Protein` inherit from `Food`.
-📌 **Polymorphism** – Each subclass overrides the `displayInfo()` method.
-📌 **Abstraction** – The main program uses functions without needing internal details
-(e.g., `loadSampleFoods()`, `viewAllFoods()`, `searchFood()`).
+📌 **Encapsulation** Private attributes inside the Food class ensure secure data management using getters like (getName(), getCalories() etc)
+
+📌 **Inheritance** Fruit, Vegetable, and Protein extend the Food class to reuse its properties. 
+
+📌 **Polymorphism** The displayInfo() method is overridden in each subclass. 
+
+📌 **Abstraction** The main program uses functions without needing to know the internal logic of file handling like (loadSampleFoods(), viewAllFoods() , searchFood() etc)
 
 ---
 
@@ -121,3 +123,4 @@ Protein: 7
 ## ✦ **Acknowledgement**
 
 We express our sincere gratitude to our instructor and classmates for the guidance and support throughout the development of this final project.
+
