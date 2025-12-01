@@ -43,8 +43,8 @@ All interaction is done through a menu-driven terminal interface.
     ├── Fruit.java
     ├── Protein.java
     └── Vegetable.java
-└── NutriTrack.java
-└── meal_summary.txt
+    └── NutriTrack.java
+    └── meal_summary.txt
 ```
 
 ### **File Description**
@@ -126,3 +126,4 @@ We express our sincere gratitude to our instructor and classmates for the guidan
 
 ✔ **All fixed. Perfectly formatted. Ready to copy and paste.**
 If you want, I can also add: installation instructions, screenshots, badges, or sample code.
+
