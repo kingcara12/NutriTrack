@@ -121,9 +121,3 @@ Protein: 7
 ## ✦ **Acknowledgement**
 
 We express our sincere gratitude to our instructor and classmates for the guidance and support throughout the development of this final project.
-
----
-
-✔ **All fixed. Perfectly formatted. Ready to copy and paste.**
-If you want, I can also add: installation instructions, screenshots, badges, or sample code.
-
