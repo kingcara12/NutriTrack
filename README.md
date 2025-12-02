@@ -46,6 +46,7 @@ All interaction is done through a menu-driven terminal interface.
     ├── Protein.java
     └── Vegetable.java
     └── NutriTrack.java
+    📂 data/
     └── meal_summary.txt
 ```
 
@@ -125,5 +126,6 @@ Protein: 7
 ## ✦ **Acknowledgement**
 
 We express our sincere gratitude to our instructor and classmates for the guidance and support throughout the development of this final project.
+
 
 
